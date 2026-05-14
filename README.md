@@ -1,6 +1,6 @@
 <div align="center">
 
-### `Wei Han Tan` — researcher @ NUS School of Computing
+### `Mo` — techbio enthusiast 
 
 > *AI agents that reason on-chain. Mostly thinking about how DeFi infrastructure should be smarter than the people who use it (myself included).*
 
