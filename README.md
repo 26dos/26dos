@@ -4,8 +4,7 @@
 
 > I build ingestion systems, feature pipelines, retrieval infrastructure, and LLM agent evaluation tools for messy real-world domains.
 
-[![Singapore](https://img.shields.io/badge/Singapore-FF6B35?style=flat-square)](#)
-[![NUS](https://img.shields.io/badge/NUS-002F6C?style=flat-square)](#)
+
 [![Focus](https://img.shields.io/badge/focus-ML%20pipelines%20%2B%20agent%20evals-2E7D32?style=flat-square)](#)
 
 </div>
@@ -58,7 +57,7 @@ Collaborations on:
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=26dos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=26dos&theme=tokyonight" height="155" />
 
 </td></tr>
 </table>
@@ -87,4 +86,4 @@ Collaborations on:
 
 ---
 
-<sub>The opinions and code in these repos are mine alone. Most repos are research-grade or prototype-grade; read each README before assuming production readiness.</sub>
+<sub>The opinions and code in these repos are mine alone. Most repos are prototype-grade; read each README before assuming production readiness.</sub>
