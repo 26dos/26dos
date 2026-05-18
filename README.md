@@ -71,10 +71,10 @@ Collaborations on:
 |------|------|
 | [`defi-risk-reasoner`](https://github.com/26dos/defi-risk-reasoner) | Tool-using LLM agent with structured risk reports, labeled eval cases, and scoring scripts |
 | [`mev-pattern-miner`](https://github.com/26dos/mev-pattern-miner) | Event-stream mining pipeline that builds labeled parquet datasets and trains classifiers |
-| [`sinfun-chain`](https://github.com/26dos/sinfun-chain) | Multi-source feature pipeline for token-level risk signals and offline analysis |
-| [`collector`](https://github.com/26dos/collector) | Industrial telemetry ingestion and monitoring system using MQTT, Modbus, IEC 104, Express, and Vue |
-| [`lynx-retrieval-bot`](https://github.com/26dos/lynx-retrieval-bot) | Distributed retrieval pipeline with schedulers, resolvers, workers, retries, and result aggregation |
-| [`onchain-agent-memory`](https://github.com/26dos/onchain-agent-memory) | Verifiable trace registry for AI agent decisions, with contracts plus a Python SDK |
+| [`token-risk-feature-store`](https://github.com/26dos/token-risk-feature-store) | Multi-source feature pipeline for token-level risk signals and offline analysis |
+| [`industrial-telemetry-ingestion`](https://github.com/26dos/industrial-telemetry-ingestion) | Industrial telemetry ingestion and monitoring system using MQTT, Modbus, IEC 104, Express, and Vue |
+| [`distributed-retrieval-pipeline`](https://github.com/26dos/distributed-retrieval-pipeline) | Distributed retrieval pipeline with schedulers, resolvers, workers, retries, and result aggregation |
+| [`verifiable-agent-memory`](https://github.com/26dos/verifiable-agent-memory) | Verifiable trace registry for AI agent decisions, with contracts plus a Python SDK |
 
 <details>
 <summary>Activity over time</summary>
