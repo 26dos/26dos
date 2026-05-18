@@ -75,6 +75,18 @@ Collaborations on:
 | [`distributed-retrieval-pipeline`](https://github.com/26dos/distributed-retrieval-pipeline) | Distributed retrieval pipeline with schedulers, resolvers, workers, retries, and result aggregation |
 | [`verifiable-agent-memory`](https://github.com/26dos/verifiable-agent-memory) | Verifiable trace registry for AI agent decisions, with contracts plus a Python SDK |
 
+### Demo gallery
+
+| Repo | Demo artifact |
+|------|------|
+| [`industrial-telemetry-ingestion`](https://github.com/26dos/industrial-telemetry-ingestion/blob/main/docs/demo-walkthrough.md) | MQTT/Modbus/IEC 104 telemetry flow, entity graph, and sample payload |
+| [`defi-risk-reasoner`](https://github.com/26dos/defi-risk-reasoner/blob/main/docs/demo-walkthrough.md) | Tool-using LLM agent eval sequence, scoring flow, and sample metrics |
+| [`mev-pattern-miner`](https://github.com/26dos/mev-pattern-miner/blob/main/docs/demo-walkthrough.md) | Blocks-to-parquet-to-classifier pipeline and detector metrics |
+| [`token-risk-feature-store`](https://github.com/26dos/token-risk-feature-store/blob/main/docs/demo-walkthrough.md) | Source adapters, feature entities, parquet snapshots, and sample feature row |
+| [`distributed-retrieval-pipeline`](https://github.com/26dos/distributed-retrieval-pipeline/blob/master/docs/demo-walkthrough.md) | Scheduler/resolver/worker sequence and sample retrieval result |
+| [`verified-retrieval-cache`](https://github.com/26dos/verified-retrieval-cache/blob/master/docs/demo-walkthrough.md) | Merkle proof cache flow and sample window-path artifact |
+| [`verifiable-agent-memory`](https://github.com/26dos/verifiable-agent-memory/blob/main/docs/demo-walkthrough.md) | Agent trace commitment sequence and verification result |
+
 <details>
 <summary>Activity over time</summary>
 
