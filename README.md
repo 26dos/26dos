@@ -5,7 +5,12 @@
 > I build ingestion systems, feature pipelines, retrieval infrastructure, and LLM agent evaluation tools for messy real-world domains.
 
 
-[![Focus](https://img.shields.io/badge/focus-ML%20pipelines%20%2B%20agent%20evals-2E7D32?style=flat-square)](#)
+[![Coffee](https://img.shields.io/badge/Powered_by-Coffee-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white)](#)
+[![Night Owl](https://img.shields.io/badge/🦉_Night_Owl-1A1B27?style=flat-square)](#)
+[![Broadway](https://img.shields.io/badge/🎭_Broadway-D4AF37?style=flat-square)](#)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://whereversunshines.substack.com)
+[![Coding](https://img.shields.io/badge/Always-Coding-00ADD8?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/Focus-ML%20pipelines%20%2B%20agent%20evals-2E7D32?style=flat-square)](#)
 
 </div>
 
@@ -16,7 +21,7 @@
 
 ### About
 
-I work on practical data and ML systems: pulling noisy signals from fragmented
+I work on practical data and ML systems: pulling noisy signals from fragmented 
 sources, shaping them into queryable datasets, and building evaluation loops
 that make model behavior easier to inspect.
 
