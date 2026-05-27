@@ -10,7 +10,7 @@
 [![Broadway](https://img.shields.io/badge/🎭_Broadway-D4AF37?style=flat-square)](#)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://whereversunshines.substack.com)
 [![Coding](https://img.shields.io/badge/Always-Coding-00ADD8?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
-[![Focus](https://img.shields.io/badge/Focus-ML%20pipelines%20%2B%20agent%20evals-2E7D32?style=flat-square)](#)
+[![Focus](https://img.shields.io/badge/Focus-ML%20pipelines%20%2B%20Agent%20Evals-2E7D32?style=flat-square)](#)
 
 </div>
 
