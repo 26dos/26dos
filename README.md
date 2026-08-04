@@ -63,7 +63,7 @@ Collaborations on:
 
 ### Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=26dos&theme=tokyonight" height="155" />
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=26dos&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true)
 
 </td></tr>
 </table>
