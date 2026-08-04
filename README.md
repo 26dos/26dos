@@ -34,8 +34,9 @@ feature extraction, structured storage, and reproducible evaluation.
 
 - Building labeled datasets and classifiers from high-volume event streams
 - Designing LLM agent evaluation harnesses with structured outputs and scoring
-- Working with parquet-backed feature stores, retrieval workers, and telemetry pipelines
+- Developing evaluation harnesses that gate prompt and model changes
 - Translating production-ish systems into reusable research and engineering artifacts
+
 
 ### Open to
 
