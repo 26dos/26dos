@@ -6,7 +6,6 @@
 
 
 [![Coffee](https://img.shields.io/badge/Powered_by-Coffee-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white)](#)
-[![Night Owl](https://img.shields.io/badge/🦉_Night_Owl-1A1B27?style=flat-square)](#)
 [![Broadway](https://img.shields.io/badge/🎭_Broadway-D4AF37?style=flat-square)](#)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://whereversunshines.substack.com)
 [![Coding](https://img.shields.io/badge/Always-Coding-00ADD8?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
