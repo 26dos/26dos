@@ -55,7 +55,6 @@ Collaborations on:
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Stats
